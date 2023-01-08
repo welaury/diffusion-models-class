@@ -1,0 +1,2 @@
+docker run -it --rm --gpus all -v `pwd`:/scratch -p 8888:8888 --workdir /scratch nvcr.io/nvidia/pytorch:22.08-py3
+jupyter lab --ip 0.0.0.0 --port 8888 --allow-root

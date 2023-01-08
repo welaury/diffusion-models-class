@@ -1,0 +1,6 @@
+jupyter
+diffusers
+datasets
+transformers
+accelerate
+ftfy

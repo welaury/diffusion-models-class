@@ -1,5 +1,10 @@
 # Hugging Face Diffusion Models Course
 
+[![License](https://img.shields.io/static/v1?label=License&message=Apache&color=<Yellow>)](https://github.com/huggingface/diffusion-models-class/blob/main/LICENSE) &nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/huggingface/diffusion-models-class.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/dhakalnirajan/diffusion-models-class) &nbsp;
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-red?style=flat-square&logo=Jupyter)](https://jupyter.org/try) &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+
 In this free course, you will:
 - 👩‍🎓 Study the theory behind diffusion models
 - 🧨 Learn how to generate images and audio with the popular 🤗 Diffusers library
@@ -16,9 +21,9 @@ Register via the **[signup form](https://huggingface.us17.list-manage.com/subscr
 | 📆 Publishing date  | 📘 Unit           | 👩‍💻 Hands-on |
 |---------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | November 28, 2022  | [An Introduction to Diffusion Models](https://github.com/huggingface/diffusion-models-class/tree/main/unit1)| Introduction to Diffusers and Diffusion Models From Scratch |
-| TBA  | Fine-Tuning and Guidance | Fine-Tuning a Diffusion Model on New Data and Adding Guidance |
-| TBA  | Stable Diffusion Intro | Exploring a Powerful Text-Conditioned Latent Diffusion Model |
-| TBA  | Stable Diffusion Deep Dive | Fine-Tuning, Sampling Tricks and Custom Pipelines |
+| December 12, 2022  | [Fine-Tuning and Guidance](https://github.com/huggingface/diffusion-models-class/tree/main/unit2) | Fine-Tuning a Diffusion Model on New Data and Adding Guidance |
+| December 21, 2022  | [Stable Diffusion](https://github.com/huggingface/diffusion-models-class/tree/main/unit3) | Exploring a Powerful Text-Conditioned Latent Diffusion Model |
+| January 2023 (TBC)  | Doing More with Diffusion | Advanced Techniques to Take Diffusion Further |
 
 More information coming soon!
 
@@ -50,3 +55,12 @@ You can create one here 👉 [https://huggingface.co/join](https://huggingface.c
 The course will consist of at least **4 Units.** More will be added as time goes on, on topics like diffusion for audio. 
 
 Each unit consists of some theory and background alongisde one or more hands-on notebooks. Some units will also contain suggested projects and we'll have competitions and swag for the best pipelines and demos (more details TDB).
+
+## 🌎 Languages and translations
+
+Members of the 🤗 community have begin translating the course! We're planning to host this course on the [Hugging Face website](https://huggingface.co/), so if you're interested in contributing a translation, we recommend waiting until we've formatted the English content in it's final form.
+
+| Language                                                                      | Authors |
+|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| [Chinese](https://github.com/darcula1993/diffusion-models-class-CN/blob/main/README_CN.md)     | [@darcula1993](https://github.com/darcula1993) [@XhrLeokk](https://github.com/XhrLeokk)|
+| [Japanese](https://github.com/eltociear/diffusion-models-class-JA/blob/main/README_JA.md)     | [@eltociear](https://github.com/eltociear)|

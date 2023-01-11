@@ -4,3 +4,4 @@ datasets
 transformers
 accelerate
 ftfy
+fastcore
